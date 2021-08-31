@@ -8,12 +8,12 @@ It is a simple administrative bot that contains a number of administrative comma
 - Step 1
 clone the project
 ```py
-git clone https://github.com/MeKINGMAN/MyDiscordModBot
+git clone https://github.com/KMKINGMAN/MyDiscordModBot
 ```
 - Step 2
 Now you have to upload files to a hosting provider to run the files 7/24h
 LIKE http://repl.it/
-Or you can shorten the time and click here [AUTO CLONE TO REPLIT](https://replit.com/github/MeKINGMAN/MyDiscordModBot)
+Or you can shorten the time and click here [AUTO CLONE TO REPLIT](https://replit.com/github/KMKINGMAN/MyDiscordModBot)
 - Step 3
 Go  to **.replit** File and Paste the
 ```
@@ -82,11 +82,11 @@ keep_alive()
 - الخطوه الاولى 
 انسخ البروجيكت على جهازك عبر الامر الاتي 
 ```
-git clone https://github.com/MeKINGMAN/First-ModerationBot
+git clone https://github.com/KMKINGMAN/First-ModerationBot
 ```
 - الخطوة الثانية
 عليك رفع البوت على خادم لكي يعمل البوت 24 اعة انا انصحك بريبل ات او اختصر الخطوة الاولى عبر الضغط هنا 
- [AUTO CLONE TO REPLIT](https://replit.com/github/MeKINGMAN/First-ModerationBot)
+ [AUTO CLONE TO REPLIT](https://replit.com/github/KMKINGMAN/First-ModerationBot)
  
 - الخطوة الثالثة
  عليك الذهاب الى ملف **.replit ** ولصق المعلومات 
